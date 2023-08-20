@@ -15,7 +15,7 @@ I also have basic skills in frontend-development (JS, React)
 
 🏆 **Competition background**
 * 🥇 Код Петербуга [2022](https://vk.com/wall242306128_725) (50.000$)
-* 🥇 [AI Generative Product Hackathon 2023](https://t.me/c/1953241132/71) 
+* 🥇 AI Generative Product Hackathon [2023](https://t.me/c/1953241132/71) 
 * 🥇 VK Freshcode [2020](https://vk.com/text_tools), [2021](https://vk.com/video-166562603_456239088?t=2h6m32s) 
 * 🥉 VK Вездекод [2022](https://t.me/bbkov/155)
 
