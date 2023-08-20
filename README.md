@@ -20,8 +20,21 @@ I also have basic skills in frontend-development (JS, React)
 * 🥉 VK Вездекод [2022](https://t.me/bbkov/155)
 
 🎱 **Work experience**
-* Freelance 2019-2021
-* Own projects, hackathons, grants and etc. 2020-...
+* Freelance (commercial VK, TG chat-bots, scripts for automation) **2019-2021**
+* Own projects, hackathons, grants and etc. **2020-...**
+
+⚡ **Technologies**
+
+[<img align="left" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+](https://www.python.org/)
+[<img align="left" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original-wordmark.svg" />
+](https://fastapi.tiangolo.com/)
+[<img align="left" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain-wordmark.svg" />
+](https://graphql.org/)
+[<img align="left" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg" />
+](https://www.postgresql.org/)
+[<img align="left" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg" />
+](https://www.docker.com/)
 
 
 <!--
