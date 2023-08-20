@@ -1,7 +1,7 @@
-### Hi, legend of IT 👋
+### Hi 👋
 
-I'm Python backend-developer, who interested in entrepreneurship. I'm improving my skills in management, marketing now , but hard skills in development still with me :)
-I plan to become product-manager 😲
+I'm Python backend-developer, who interested in entrepreneurship. I'm improving my skills in management, marketing now, plan to become product-manager, but hard skills in development still with me :)
+I also have basic skills in frontend-development (JS, React)
 
 📫 **Connect with me (social media and public profiles):** 
 
@@ -14,14 +14,14 @@ I plan to become product-manager 😲
 [vk]: https://vk.com/a.bulbenkov
 
 🏆 **Competition background**
-* 🥇 Код Петербуга 2022 (50.000$)
+* 🥇 Код Петербуга [2022](https://vk.com/wall242306128_725) (50.000$)
 * 🥇 AI Generative Product Hackathon 2023 ([AI support service for Auchan](https://github.com/alex-bul/auchan_support_bot))
-* 🥇 VK Freshcode [2020](https://vk.com/text_tools), 2021 
-* 🥈 VK Вездекод 2022
+* 🥇 VK Freshcode [2020](https://vk.com/text_tools), [2021](https://vk.com/video-166562603_456239088?t=2h6m32s) 
+* 🥉 VK Вездекод [2022](https://t.me/bbkov/155)
 
 🎱 **Work experience**
 * Freelance 2019-2021
-* Own projects, hackathons, grants and etc. 2021-...
+* Own projects, hackathons, grants and etc. 2020-...
 
 
 <!--
