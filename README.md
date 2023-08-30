@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I'm Python backend-developer, who interested in entrepreneurship. I'm improving my skills in management, marketing now, plan to become product-manager, but hard skills in development still with me :)
+I'm a Python backend-developer, who is interested in entrepreneurship. Currently I'm improving my skills in management and marketing, my plan is to become a product-manager, but hard skills in development are still with me 🙂
 
-I also have basic skills in frontend-development (JS, React)
+I also have basic skills in frontend-development (JS, React or Python, Django)
 
 📫 **Connect with me (social media and public profiles):** 
 
