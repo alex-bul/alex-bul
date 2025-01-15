@@ -23,6 +23,7 @@ I also have basic skills in frontend-development (JS, React or Python, Django)
 * 🥉 VK Вездекод [2022](https://t.me/bbkov/155) (Хакатон от ВК, задачей которого была разработка серии продуктов на основе сервисов компании. Например, одним из моих заданий было создание встроенной игры для голосового помощника)
 
 🎱 **Work experience**
+* Yandex, Technical Project Manager **2024-...**
 * Freelance (commercial VK, TG chat-bots, scripts for automation) **2019-2021**
 * Own projects, hackathons, grants and etc. **2020-...**
 
