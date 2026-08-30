@@ -6,8 +6,8 @@ I also have basic skills in frontend-development (JS, React or Python, Django)
 
 📫 **Connect with me (social media and public profiles):** 
 
-- telegram: t.me/alexbul0
-- vk: vk.com/a.bulbenkov
+- t.me/alexbul0
+- vk.com/a.bulbenkov
 
 
 🏆 **Hackathon&Grants background**
