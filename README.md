@@ -8,8 +8,6 @@ I also have basic skills in frontend-development (JS, React or Python, Django)
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" width="22px" src="https://simpleicons.org/icons/vk.svg" />][vk]
-  
-**Mail:** `bualal2005@gmail.com`
 
 [telegram]: https://t.me/alexbul0
 [vk]: https://vk.com/a.bulbenkov
