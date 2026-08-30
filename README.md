@@ -12,6 +12,7 @@ I also have basic skills in frontend-development (JS, React or Python, Django)
 [telegram]: https://t.me/alexbul0
 [vk]: https://vk.com/a.bulbenkov
 
+
 🏆 **Hackathon&Grants background**
 * 🥇 Код Петербуга [2022](https://vk.com/wall242306128_725) (Самый крупный успех: втроем с друзьями разработали необычный путеводитель "ПитерGO" для Санкт-Петербурга, получили грант размером 50,000$ и дальнешее IT-сотрудничество с городом)
 * 🥇 AI Generative Product Hackathon [2023](https://t.me/c/1953241132/71) (Наша с командой реализация клиентской поддержки с масштабной интеграцией ИИ для Auchan Russia было признано лучшим продуктом главного GPT-хакатона России, продолжили разработку с компанией)
